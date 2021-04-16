@@ -58,7 +58,7 @@ public class ShaffArray {
             }
         }
     }
-/* https://beginnersbook.com/2014/07/random-shuffling-of-an-array-in-java/ */
+// https://beginnersbook.com/2014/07/random-shuffling-of-an-array-in-java/
 //Modification: Returning from new  to old array
 
 
