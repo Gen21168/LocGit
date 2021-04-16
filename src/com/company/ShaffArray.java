@@ -39,7 +39,7 @@ public class ShaffArray {
             }
             System.out.println();
            // System.out.print("New massive");
-            //System.out.print("Returning from a new array to old one ");
+           //System.out.print("Returning from a new array to old one ");
 
             for (int i=0; i<IntArr.length; i++ ) {
                 IntArr[i] = myArrayLengh[i];
@@ -59,6 +59,6 @@ public class ShaffArray {
         }
     }
 /* https://beginnersbook.com/2014/07/random-shuffling-of-an-array-in-java/ */
-//Modification: Returning from a new array to an old one
+//Modification: Returning from new  to old array
 
 
